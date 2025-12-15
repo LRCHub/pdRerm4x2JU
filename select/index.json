@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Endless Sorrow",
+  "base_artist": "HEY-SMITH",
+  "createdAt": "2025-12-15T00:26:36.298111Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Endless Sorrow",
+      "artist": "HEY-SMITH",
+      "has_synced": false,
+      "path": "select/01_Endless_Sorrow_HEY-SMITH.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Endless sorrow (VooDoo & Serano remix)",
+      "artist": "Ayumi Hamasaki",
+      "has_synced": true,
+      "path": "select/02_Endless_sorrow_(VooDoo_&_Serano_remix)_Ayumi_Hamasaki.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Endless sorrow - gone with the wind ver.",
+      "artist": "Ayumi Hamasaki",
+      "has_synced": true,
+      "path": "select/03_Endless_sorrow_-_gone_with_the_wind_ver._Ayumi_Hamasaki.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Endless sorrow",
+      "artist": "Ayumi Hamasaki",
+      "has_synced": false,
+      "path": "select/04_Endless_sorrow_Ayumi_Hamasaki.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Endless Sorrow (Dub's Forever Mercy Mix)",
+      "artist": "Ayumi Hamasaki",
+      "has_synced": false,
+      "path": "select/05_Endless_Sorrow_(Dub's_Forever_Mercy_Mix)_Ayumi_Hamasaki.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Endless sorrow - Brent Mini's gothic mix",
+      "artist": "Ayumi Hamasaki",
+      "has_synced": false,
+      "path": "select/06_Endless_sorrow_-_Brent_Mini's_gothic_mix_Ayumi_Hamasaki.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Endless sorrow ''Breat Mini's gothic mix''",
+      "artist": "浜崎あゆみ",
+      "has_synced": false,
+      "path": "select/07_Endless_sorrow_''Breat_Mini's_gothic_mix''_浜崎あゆみ.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Endless sorrow - Juicy Ariyama Mix",
+      "artist": "Ayumi Hamasaki",
+      "has_synced": false,
+      "path": "select/08_Endless_sorrow_-_Juicy_Ariyama_Mix_Ayumi_Hamasaki.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Endless sorrow ''Juicy Ariyama Mix''",
+      "artist": "浜崎あゆみ",
+      "has_synced": false,
+      "path": "select/09_Endless_sorrow_''Juicy_Ariyama_Mix''_浜崎あゆみ.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Endless sorrow - Liquid Heart Mix",
+      "artist": "Ayumi Hamasaki",
+      "has_synced": false,
+      "path": "select/10_Endless_sorrow_-_Liquid_Heart_Mix_Ayumi_Hamasaki.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Endless sorrow ''Liquid Heart Mix''",
+      "artist": "浜崎あゆみ",
+      "has_synced": false,
+      "path": "select/11_Endless_sorrow_''Liquid_Heart_Mix''_浜崎あゆみ.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Endless sorrow - Natural Green Dub Mix",
+      "artist": "Ayumi Hamasaki",
+      "has_synced": false,
+      "path": "select/12_Endless_sorrow_-_Natural_Green_Dub_Mix_Ayumi_Hamasaki.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Endless sorrow ''Natural Green Dub Mix''",
+      "artist": "浜崎あゆみ",
+      "has_synced": false,
+      "path": "select/13_Endless_sorrow_''Natural_Green_Dub_Mix''_浜崎あゆみ.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Endless sorrow - Instrumental",
+      "artist": "Ayumi Hamasaki",
+      "has_synced": false,
+      "path": "select/14_Endless_sorrow_-_Instrumental_Ayumi_Hamasaki.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Endless sorrow ''Original Mix'' -Instrumental",
+      "artist": "浜崎あゆみ",
+      "has_synced": false,
+      "path": "select/15_Endless_sorrow_''Original_Mix''_-Instrumental_浜崎あゆみ.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Endless sorrow - Ram's Advance Mix",
+      "artist": "Ayumi Hamasaki",
+      "has_synced": false,
+      "path": "select/16_Endless_sorrow_-_Ram's_Advance_Mix_Ayumi_Hamasaki.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Endless sorrow ''Ram's Advance Mix''",
+      "artist": "浜崎あゆみ",
+      "has_synced": false,
+      "path": "select/17_Endless_sorrow_''Ram's_Advance_Mix''_浜崎あゆみ.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Endless sorrow - nicely nice skyblue remix",
+      "artist": "Ayumi Hamasaki",
+      "has_synced": false,
+      "path": "select/18_Endless_sorrow_-_nicely_nice_skyblue_remix_Ayumi_Hamasaki.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Endless Sorrow",
+      "artist": "HEY-SMITH",
+      "has_synced": false,
+      "path": "select/pl_01_Endless_Sorrow_HEY-SMITH.txt"
+    }
+  ]
+}
